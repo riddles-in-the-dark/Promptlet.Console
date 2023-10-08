@@ -1,0 +1,55 @@
+[
+  {
+    "templateId": 1,
+    "templateName": "Code Gen",
+    "templateAssets": [
+      {
+        "assetName": "Generate Code to Parse and Extract information from a file",
+        "assetContent": "Create a [language] script to parse [file format] and extract [information] with the following requirements",
+        "assetOrder": 1
+      }
+    ]
+  },
+  {
+    "templateId": 2,
+    "templateName": "Unit Test Gen",
+    "templateAssets": [
+      {
+        "assetName": "Generate Test Scenerios",
+        "assetContent": "Generate test scenarios for the following [language] class or module: [code snippet]",
+        "assetOrder": 1
+      }
+    ]
+  },
+  {
+    "templateId": 3,
+    "templateName": "Code Review",
+    "templateAssets": [
+      {
+        "assetName": "Analyze Code Smells",
+        "assetContent": "Analyze the given [language] code for code smells and suggest improvements: [code snippet]",
+        "assetOrder": 1
+      },
+      {
+        "assetName": "Check for logging and monitoring",
+        "assetContent": "Check the following [language] code for proper logging and monitoring practices: [code snippet]",
+        "assetOrder": 3
+      },
+      {
+        "assetName": "Check for scalibility",
+        "assetContent": "Review the given [language] code for potential scalability issues: [code snippet]",
+        "assetOrder": 4
+      },
+      {
+        "assetName": "Check for test coverage",
+        "assetContent": "Assess the test coverage of the following [language] code: [code snippet]",
+        "assetOrder": 5
+      },
+      {
+        "assetName": "Check for compatibility",
+        "assetContent": "Evaluate the given [language] code for compatibility with [platform or technology]: [code snippet]",
+        "assetOrder": 6
+      }
+    ]
+  }
+]

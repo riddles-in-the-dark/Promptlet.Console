@@ -1,0 +1,16 @@
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.AssemblyInfoInputs.cache
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.AssemblyInfo.cs
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\bin\Debug\net6.0\DataFiles\templates.json
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\bin\Debug\net6.0\Bodie.Promplet.Console.exe
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\bin\Debug\net6.0\Bodie.Promplet.Console.deps.json
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\bin\Debug\net6.0\Bodie.Promplet.Console.runtimeconfig.json
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\bin\Debug\net6.0\Bodie.Promplet.Console.dll
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\bin\Debug\net6.0\Bodie.Promplet.Console.pdb
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.dll
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\refint\Bodie.Promplet.Console.dll
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.pdb
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\Bodie.Promplet.Console.genruntimeconfig.cache
+C:\Users\derek\source\repos\Promptlet.Console\Bodie.Promplet.Console\Bodie.Promplet.Console\obj\Debug\net6.0\ref\Bodie.Promplet.Console.dll
